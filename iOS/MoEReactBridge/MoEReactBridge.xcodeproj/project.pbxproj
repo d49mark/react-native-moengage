@@ -187,7 +187,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../react-native/React/**";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../../ios/KredxInvest/**";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -231,7 +231,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../react-native/React/**";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../../ios/KredxInvest/**";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)";
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -249,10 +249,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../../../ios/Pods/MoEngage-iOS-SDK/**",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../../ios/KredxInvest",
-					"$(SRCROOT)/../../../../ios/Pods/Headers/**",
-				);
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -268,10 +265,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../../../ios/Pods/MoEngage-iOS-SDK/**",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/../../../../ios/KredxInvest",
-					"$(SRCROOT)/../../../../ios/Pods/Headers/**",
-				);
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
