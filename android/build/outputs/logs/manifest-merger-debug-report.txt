@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:1-8:12
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml:4:3-6:17
+uses-sdk
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		ADDED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest/node_modules/react-native-moengage/android/src/main/AndroidManifest.xml

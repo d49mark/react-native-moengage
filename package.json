@@ -1,0 +1,48 @@
+{
+  "_from": "react-native-moengage@^2.2.0",
+  "_id": "react-native-moengage@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OvmL6Qps5vRgSyTzxtqWOk9p8yv1nCjTKbcCpogC4cZQUmXb44b8AMLRxoHSFJlBMeTs/QaKfcA68WMJKUi+4w==",
+  "_location": "/react-native-moengage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-moengage@^2.2.0",
+    "name": "react-native-moengage",
+    "escapedName": "react-native-moengage",
+    "rawSpec": "^2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-moengage/-/react-native-moengage-2.2.0.tgz",
+  "_shasum": "ebe336dafeb18c835441739fdba410c9bc1de144",
+  "_spec": "react-native-moengage@^2.2.0",
+  "_where": "/Users/dilip/Documents/Workspace/kredx-fe/react-native/KredxInvest",
+  "author": {
+    "name": "MoEngage"
+  },
+  "bundleDependencies": false,
+  "contributors": "Chengappa <chengappa@moengage.com> (https://github.com/ChengappaMoEngage), Umang <umang@moengage.com> (https://github.com/umangmoe)",
+  "deprecated": false,
+  "description": "MoEngage is a mobile marketing automation company. This react-native SDK helps you track events, trigger smart notifications and in-apps, provides a drop-in Inbox Controller for notifications.",
+  "keywords": [
+    "moengage",
+    "push-notification",
+    "react-native",
+    "ios",
+    "android",
+    "device",
+    "events"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-moengage",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.0"
+}

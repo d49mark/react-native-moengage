@@ -1,0 +1,49 @@
+apply plugin: 'com.android.library'
+
+android {
+  compileSdkVersion 26
+  buildToolsVersion '27.0.3'
+
+  defaultConfig {
+    minSdkVersion 16
+    targetSdkVersion 26
+    versionCode 1
+    versionName "1.0"
+
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+}
+
+dependencies {
+  compile fileTree(include: ['*.jar'], dir: 'libs')
+  androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+    exclude group: 'com.android.support', module: 'support-annotations'
+  })
+  compileOnly "com.android.support:appcompat-v7:26.1.0"
+  testImplementation 'junit:junit:4.12'
+  compile ('com.moengage:moe-android-sdk:9.2.00'){
+    exclude group: 'com.moengage', module: 'moe-push-firebase'
+  }
+  implementation 'com.facebook.react:react-native:0.20.1'
+}
+
+ext {
+  //dependency version
+  supportLibraryV7Version = '26.1.0'
+  supportCompatVersion = '26.1.0'
+  supportLibraryV4Version = '26.1.0'
+  firebaseSDKVersion = '15.0.2'
+  gcmSDKVersion = '11.4.2'
+  locationSDKVersion = '15.0.0'
+  //build versions
+  minimumSDKVersion = 16
+  targetSDKVersion = 26
+  buildToolVersion = '27.0.3'
+  compileSDKVersion = 26
+}
